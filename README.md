@@ -4,8 +4,10 @@ hides the image if no appropriate image found
 fires on resize as well as on load of the script
 
 ## usage:
+```
 <img src="http://example.net/xs.jpg" class="img-dynamic"
     data-xs-src="http://example.net/xs.jpg"
     data-sm-src="http://example.net/sm.jpg"
     data-md-src="http://example.net/md.jpg"
     data-lg-src="http://example.net/lg.jpg"/>
+```
