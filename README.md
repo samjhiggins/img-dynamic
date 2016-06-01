@@ -3,6 +3,9 @@ looks for img-dynamic images and sets them to the appropriate image src dependin
 hides the image if no appropriate image found
 fires on resize as well as on load of the script
 
+## requirements:
+jQuery
+
 ## usage:
 ```
 <img src="http://example.net/xs.jpg" class="img-dynamic"
